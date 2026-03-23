@@ -4,8 +4,8 @@
 ---
 ## 🌐 Доступно на нескольких языках
 - Русский – эта страница
-- Английский – [HC2S Converter RU](https://github.com/telegram-converter/telegram-authkey-to-session-converter)
-- Китайский – [HC2S Converter CN](https://github.com/telegram-converter/telegram-authkey-to-session-converter-CN)
+- English – [HC2S Converter RU](https://github.com/telegram-converter/telegram-authkey-to-session-converter)
+- 英语 – [HC2S Converter CN](https://github.com/telegram-converter/telegram-authkey-to-session-converter-CN)
 
 ---
 ## ⚙️ Основные возможности
