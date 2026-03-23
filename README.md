@@ -28,7 +28,7 @@
 
 ---
 ## 📥 Скачать
-- **Всегда последняя версия** – [GitHub](https://telegram-converter.com/downloads/hc2s/ru/latest)
+- **Всегда последняя версия** – [Website](https://telegram-converter.com/downloads/hc2s/ru/latest)
 
 ---
 ## ⏱️ Бесплатный пробный доступ
